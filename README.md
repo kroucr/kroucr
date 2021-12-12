@@ -17,7 +17,7 @@
            
 📝 Um fato curioso é que gosto de estudar e produzir análises sociais a partir produções culturais afrobrasileiras</ul>
   
-<a href=https://tenor.com/view/grrl-pwr-mixtape-girl-power-power-of-the-girls-netflix-gif-24003067><imag src="https://tenor.com/view/grrl-pwr-mixtape-girl-power-power-of-the-girls-netflix-gif-24003067">  
+<a href= "https://tenor.com/view/grrl-pwr-mixtape-girl-power-power-of-the-girls-netflix-gif-24003067" <img src="https://tenor.com/view/grrl-pwr-mixtape-girl-power-power-of-the-girls-netflix-gif-24003067">
   
 ##
 
@@ -26,4 +26,4 @@
 
 ##
 
-<img src= "![Snake animation](https://github.com/kroucr/kroucr/blob/output/github-contribution-grid-snake.svg)">
+![Snake animation](https://github.com/kroucr/kroucr/blob/output/github-contribution-grid-snake.svg)
