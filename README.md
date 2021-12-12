@@ -24,4 +24,4 @@
 
 ##
 
-![Snake animation](https://github.com/kroucr/kroucr/blob/output/github-contribution-grid-snake.svg)
+![main.yml](https://github.com/kroucr/kroucr/blob/output/github-contribution-grid-snake.svg)
