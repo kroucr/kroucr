@@ -11,7 +11,7 @@
            
 🎨 Experiência com UI/UX
             
-⌛ Busco me aprofundar em metodologias ágeis
+⌛ Mergulhando em metodologias ágeis
            
 📫 Você pode me encontrar clicando nos ícones da próxima sessão
            
