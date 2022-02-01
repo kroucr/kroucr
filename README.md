@@ -35,9 +35,9 @@
            
 <div align center>
            <center><a href="https://github.com/karolynecorol">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karolynecorol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+           <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karolynecorol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
            &nbsp; 
-           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolynecorol&layout=compact&langs_count=7&theme=tokyonight"/></a></center>
+           <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolynecorol&layout=compact&langs_count=7&theme=tokyonight"/></a></center>
 </div></center>
 
 ##
